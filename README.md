@@ -1,6 +1,5 @@
-# ConversorDec2Bin
-#TÍTULO
-##SUBTÍTULO
+# TÍTULO
+## SUBTÍTULO
 
 **Por si no era evidente, esta frase esta en negrita**, _y esta en cursiva_, ~~y esto esta mal escrito~~
 
